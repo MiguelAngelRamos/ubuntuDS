@@ -19,7 +19,7 @@ public class BasePage {
   static {
     // System.setProperty("webdriver.chrome.driver", "C:\\Users\\MIGUEL\\Desktop\\curso\\chromedriver\\chromedriver.exe" );
     // System.setProperty("webdriver.chrome.driver", "C:\\chromedriver\\driver.exe" );
-    System.setProperty("webdriver.chrome.driver", "chromedriver" );
+    System.setProperty("webdriver.chrome.driver", "/home/miguel/Documents/SeleniumDriver/app/chromedriver" );
     //* Aqui estamos creando el driver una sola vez para todas las instancias */
     ChromeOptions chromeOptions = new ChromeOptions();
     chromeOptions.addArguments("--window-size=1920,1080");
