@@ -15,8 +15,8 @@ import cucumber.api.junit.Cucumber;
   // tags = "@List"
   // tags = "@Test"
   // tags = {"@Grid"}
-  // tags = "@Mercado"
-  tags ="@Amazon"
+  tags = "@Mercado"
+  // tags ="@Amazon"
   // tags = "@Google"
 )
 public class Runner {

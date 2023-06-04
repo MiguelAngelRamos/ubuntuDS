@@ -1,0 +1,27 @@
+Jun 04, 2023 5:10:14 AM hudson.remoting.jnlp.Main createEngine
+INFO: Setting up agent: Selenium
+Jun 04, 2023 5:10:14 AM hudson.remoting.Engine startEngine
+INFO: Using Remoting version: 3107.v665000b_51092
+Jun 04, 2023 5:10:14 AM org.jenkinsci.remoting.engine.WorkDirManager initializeWorkDir
+INFO: Using /home/miguel/Documents/SeleniumDriver/remoting as a remoting work directory
+Jun 04, 2023 5:10:14 AM hudson.remoting.jnlp.Main$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+Jun 04, 2023 5:10:14 AM org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver resolve
+INFO: Remoting server accepts the following protocols: [JNLP4-connect, Ping]
+Jun 04, 2023 5:10:14 AM hudson.remoting.jnlp.Main$CuiListener status
+INFO: Agent discovery successful
+  Agent address: localhost
+  Agent port:    50000
+  Identity:      78:53:25:60:d7:9f:58:44:57:ac:59:eb:17:4d:f0:7f
+Jun 04, 2023 5:10:14 AM hudson.remoting.jnlp.Main$CuiListener status
+INFO: Handshaking
+Jun 04, 2023 5:10:14 AM hudson.remoting.jnlp.Main$CuiListener status
+INFO: Connecting to localhost:50000
+Jun 04, 2023 5:10:14 AM hudson.remoting.jnlp.Main$CuiListener status
+INFO: Trying protocol: JNLP4-connect
+Jun 04, 2023 5:10:14 AM org.jenkinsci.remoting.protocol.impl.BIONetworkLayer$Reader run
+INFO: Waiting for ProtocolStack to start.
+Jun 04, 2023 5:10:14 AM hudson.remoting.jnlp.Main$CuiListener status
+INFO: Remote identity confirmed: 78:53:25:60:d7:9f:58:44:57:ac:59:eb:17:4d:f0:7f
+Jun 04, 2023 5:10:14 AM hudson.remoting.jnlp.Main$CuiListener status
+INFO: Connected
